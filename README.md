@@ -1,16 +1,13 @@
-# stem_bridge_app
+![STEM Bridge Banner](.github/banner.jpeg)
 
-A new Flutter project.
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Getting Started
+**STEM Bridge** Mission is to empower, support, and encourage girls from developing countries interested in STEM and inspire the next generation of female leaders by:
 
-This project is a starting point for a Flutter application.
+- Combatting the systemic lack of confidence
+- Emphasizing the variety of STEM occupations
+- Providing them with opportunities that encourage learning and hands-on experience.
 
-A few resources to get you started if this is your first Flutter project:
+The Vision is to increase and create awareness, leadership and career opportunities and generate enthusiasm among girls in developing countries, looking to launch successful STEM-related careers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👉 Click here to view [STEM Bridge Website](https://stembrdg.org/)
